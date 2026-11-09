@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]>=21.6,<23
+SQLAlchemy[asyncio]>=2.0,<2.1
+aiosqlite>=0.20
+asyncpg>=0.29
+alembic>=1.13
+Pillow>=10.3
+python-dotenv>=1.0

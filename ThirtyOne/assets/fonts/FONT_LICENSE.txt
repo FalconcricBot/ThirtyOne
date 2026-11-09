@@ -1,0 +1,4 @@
+DejaVu fonts are free to use and redistribute (Bitstream Vera / public-domain additions).
+https://dejavu-fonts.github.io/License.html
+Poppins: SIL Open Font License 1.1 (Indian Type Foundry). Noto Color Emoji: SIL OFL 1.1 (Google).
+FreeSans (system fallback): GNU FreeFont, GPL with font exception.
